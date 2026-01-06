@@ -1,2 +1,2 @@
-# SensorAccumulator
-วชิรวิชญ์ ดำช่วย
+ SensorAccumulator
+Subject Sensor วชิรวิชญ์ ดำช่วย 
